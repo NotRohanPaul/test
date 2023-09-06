@@ -1,5 +1,0 @@
-{{#user}}
-Name: Rohan Paul
-Skills: HTML, CSS, JS, React.js, Bootstrap
-Email: rohanpaul8000@gmail.com
-{{/user}}
